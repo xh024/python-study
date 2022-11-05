@@ -15,14 +15,12 @@
 - 5강 : https://youtu.be/SeZr0VYozCM
 
 
-
-### 그 외
-#부터는 강의 외 연습 파일
-
-
-
 ### 초보자를 위한 파이썬 300제
 
 ![링크](https://wikidocs.net/images//book/python300_zoR1Cof.PNG)
 - 도서 : https://wikidocs.net/book/922
 - 강의 : https://www.youtube.com/c/pystock
+
+
+### 그 외
+추가 학습 폴더에 정리
