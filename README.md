@@ -1,7 +1,7 @@
-# Youtube 테크보이 워니 강좌 내용 정리
+# 파이썬 공부
 
 
-### 유튜브 채널
+### Youtube 테크보이 워니 강좌 내용 정리
 - https://www.youtube.com/c/TeccboiWonie
 
 
