@@ -1,7 +1,7 @@
 # Youtube 테크보이 워니 강좌 내용 정리
 
 ### 유튜브 채널
-![링크](https://www.youtube.com/c/TeccboiWonie)
+- https://www.youtube.com/c/TeccboiWonie
 
 ### 강좌명 - 초단기 속성코딩(파이썬)
 - introduce : https://youtu.be/roItkTQ7t3M
