@@ -11,4 +11,3 @@
 - 3강 : https://youtu.be/_CY4DlRCTBc
 - 4강 : https://youtu.be/xdVt6qbghzI
 - 5강 : https://youtu.be/SeZr0VYozCM
-- 6강 : https://youtu.be/umOQNlQMoDc
