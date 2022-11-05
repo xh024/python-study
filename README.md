@@ -11,3 +11,6 @@
 - 3강 : https://youtu.be/_CY4DlRCTBc
 - 4강 : https://youtu.be/xdVt6qbghzI
 - 5강 : https://youtu.be/SeZr0VYozCM
+
+### 그 외
+#부터는 강의 외 연습 파일
