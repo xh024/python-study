@@ -19,7 +19,8 @@ print("오늘은", "일요일")
 # 오늘은 일요일
 
 
-"""# 007"""
+"""오답"""
+# 007
 print("naver", "kakao", "sk", "samsung", sep = ";")
 # sep인자를 사용하면 출력되는 값들 사이에 공백대신 세미콜론이 들어가게 된다
 
@@ -28,7 +29,8 @@ print("naver", "kakao", "sk", "samsung", sep = ";")
 print("naver", "kakao", "sk", "samsung", sep = "/")
 
 
-"""# 009"""
+"""오답"""
+# 009
 print("first");print("second")
 # 한 줄에 두개의 명령어를 적고 싶으면 print() 사이에 ;(세미콜론)을 사용한다
 print("first", end="");print("second")
