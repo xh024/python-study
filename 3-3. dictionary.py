@@ -23,39 +23,39 @@ print(a3["age"])
 
 
 # 예제 2
-b3 = {
+b = {
   0 : "jeongho",
   1 : "hello",
   "age" : 24,
 }
 
-print(b3[0])
-print(b3[1])
-print(b3["age"])
+print(b[0])
+print(b[1])
+print(b["age"])
 
 # age라는 키가 b3 dict에 들어있나요?
-print("age" in b3) # true / false
+print("age" in b) # true / false
 
 # b3 dict의 모든 key를 보여주세요
-print(b3.keys())
+print(b.keys())
 #b3 dict의 모든 value를 보여주세요
-print(b3.values())
+print(b.values())
 
 
 # 하나씩 보여주세요
-for key in b3:
+for key in b:
   print("key: " + str(key))
-  print("value: " + str(b3[key]))
+  print("value: " + str(b[key]))
 
 
 # b3 dict 내 0 key의 value를 현서로 바꾸기
-b3[0] = "현서"
-print(b3)
+b[0] = "현서"
+print(b)
 
 
 # key와 value를 새로 추가하기
-b3["school"] = "한빛"
-print(b3)
+b["school"] = "한빛"
+print(b)
 
 
 
